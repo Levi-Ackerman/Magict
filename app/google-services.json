@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "261563690484",
+    "firebase_url": "https://filehub-27b63.firebaseio.com",
+    "project_id": "filehub-27b63",
+    "storage_bucket": "filehub-27b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261563690484:android:243c350992a616b8",
+        "android_client_info": {
+          "package_name": "space.woyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261563690484-fh5heu6154dh1cib98pq10120mpio0bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFAxhyTfVssHDuMZj_xGIgzv19hiMVv6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
